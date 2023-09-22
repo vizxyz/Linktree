@@ -1,2 +1,2 @@
 ## Live demo
-Click Here To Preview My Project [Github](https://vizxyz.github.io/Linktree/)
+Click Here To Preview My Project [Linktree](https://vizxyz.github.io/Linktree/)
